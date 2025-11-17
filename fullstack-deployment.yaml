@@ -33,7 +33,7 @@ spec:
           env:
             - name: MYSQL_DATABASE
               value: ecommerce
-            - name: MYSQL_ROOT_PASSWORD
+            - name: AKVNLSK@123s
               value: root
           ports:
             - containerPort: 3306
